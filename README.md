@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Wenderson Costa
 
-<!--
-**Wenderson-Costa/Wenderson-Costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional em transição para Engenharia e Analytics de Dados.
 
-Here are some ideas to get you started:
+## Stack em evolução
+- Power BI
+- SQL
+- Python
+- Analytics Engineering
+- Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos
+Construir soluções modernas de dados focadas em:
+- Analytics
+- Engenharia de Dados
+- Business Intelligence
+- Automação
+- Cloud
+
+## Projetos em desenvolvimento
+Em breve...
