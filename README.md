@@ -1,29 +1,34 @@
 # Olá, eu sou Wenderson Costa
 
-Profissional em evolução para Analytics Engineering e Engenharia de Dados, com experiência em Business Intelligence e desenvolvimento de dashboards estratégicos.
+Data Analytics | Business Intelligence | Strategy & Analytics
 
-## Stack em evolução
-- Power BI
+## Sobre mim
+Profissional em desenvolvimento focado em Analytics, Business Intelligence, Estratégia e Performance Empresarial.
+
+Atualmente construindo projetos voltados para:
+- Analytics Estratégico
+- Business Intelligence
+- FP&A Analytics
+- Business Operations
+- Automação Analítica
+- Data-driven Decision Making
+
+## Competências em desenvolvimento
 - SQL
 - Python
-- Git & GitHub
+- Power BI
 - Analytics Engineering
-- Data Engineering
-
-## Áreas de interesse
-- Analytics
-- Engenharia de Dados
-- Business Intelligence
-- Automação de Dados
-- Cloud & Modern Data Stack
-
-## Objetivo profissional
-Construir soluções modernas de dados focadas em:
-- análise estratégica,
-- pipelines de dados,
-- arquitetura analítica,
-- visualização executiva,
-- engenharia analítica.
+- Estratégia de Negócios
+- KPIs Executivos
+- Storytelling com Dados
+- FP&A Analytics
 
 ## Projetos em desenvolvimento
-Em breve...
+Em breve:
+- Executive Sales Analytics
+- Financial Performance Dashboard
+- Business Operations Analytics
+- Strategic Growth Analytics
+
+## Objetivo profissional
+Atuar em posições estratégicas orientadas por dados, unindo Analytics, Negócio, Performance e Estratégia para geração de impacto empresarial.
