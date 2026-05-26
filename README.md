@@ -3,7 +3,7 @@
 Data Analytics | Business Intelligence | Strategy & Analytics
 
 ## Sobre mim
-Profissional em desenvolvimento focado em Analytics, Business Intelligence, Estratégia e Performance Empresarial.
+Profissional focado em Analytics, Business Intelligence, Estratégia e Performance Empresarial.
 
 Atualmente construindo projetos voltados para:
 - Analytics Estratégico
@@ -13,7 +13,7 @@ Atualmente construindo projetos voltados para:
 - Automação Analítica
 - Data-driven Decision Making
 
-## Competências em desenvolvimento
+## Competências Técnicas e Estratégicas
 - SQL
 - Python
 - Power BI
@@ -31,4 +31,4 @@ Em breve:
 - Strategic Growth Analytics
 
 ## Objetivo profissional
-Atuar em posições estratégicas orientadas por dados, unindo Analytics, Negócio, Performance e Estratégia para geração de impacto empresarial.
+Atuar em posições estratégicas orientadas por dados, utilizando Analytics, Business Intelligence e Estratégia Corporativa para geração de performance, eficiência operacional e impacto empresarial.
